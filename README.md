@@ -1,6 +1,6 @@
 # Projetos realizados
 
-Esse repositório é composto por alguns trabalhos freelances realizados, no intuito de otimizar processos repetitivos.
+Esse repositório é composto por alguns trabalhos realizados para algumas empresas, no intuito de otimizar processos repetitivos.
 
 
 
