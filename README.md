@@ -1,2 +1,3 @@
-# Projetos realizados para empresas com objetivo de otimizar processos repetitivos.
+# Projetos realizados
 
+Esse repositório é composto por alguns trabalhos freelances realizados, no intuito de otimizar processos repetitivos.
